@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Vivesh from Gurugram<br><br>- 🔭 I’m pursuing my B.Tech currently from FunctionUp<br>- 📚 I'm currently learning web development with AIML<br>- ⚡ In my free time I ...</p>
 
 ###
 
